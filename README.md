@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar4229&label=Profile%20views&color=0e75b6&style=flat" alt="manohar4229" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manohar4229" alt="manohar4229" /></a> </p>
-
 - 💬 Ask me about **Full Stack web devlopment, Artificial Intelligence and Machine learning**
 
 - 📫 How to reach me **manohark4229@gmail.com**
@@ -22,5 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manohar4229"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manohar4229" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar4229&show_icons=true&locale=en&layout=compact" alt="manohar4229" /></p>
