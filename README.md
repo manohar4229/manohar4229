@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar4229&label=Profile%20views&color=0e75b6&style=flat" alt="manohar4229" /> </p>
 
-- I'm a passionate full-stack web developer with a strong foundation in artificial intelligence.  Proficient in technologies such as Java, React.js, Node.js, and databases like PostgreSQL and NoSQL, I aim to create platforms that foster collaboration and community engagement in technology. I’m excited to apply my skills to innovative projects in AI and web development.
+I'm a passionate full-stack web developer with a strong foundation in artificial intelligence.  Proficient in technologies such as Java, React.js, Node.js, and databases like PostgreSQL and NoSQL, I aim to create platforms that foster collaboration and community engagement in technology. I’m excited to apply my skills to innovative projects in AI and web development.
 
 - 📫 How to reach me **manohark4229@gmail.com**
 
