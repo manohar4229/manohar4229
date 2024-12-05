@@ -30,7 +30,7 @@ Hi there! I'm **[Kota Manohar]**, a passionate **Full Stack Developer** and **AI
 
 ## 📈 My GitHub Stats  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar4229&show_icons=true&locale=en" alt="manohar4229" /></p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manohar4229&layout=compact&theme=radical)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar4229&show_icons=true&locale=en&layout=compact" alt="manohar4229" /></p>
 
 ---
 
